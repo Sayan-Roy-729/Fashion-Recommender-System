@@ -68,7 +68,4 @@ if __name__ == "__main__":
     model = build_model()
     create_feature_lists(model)
 
-
-# Challenges:
-# 1. If we have large image dataset, in terms of millions --> Annoy library of Spotify
-# 2. Deployment of this project
+ 
