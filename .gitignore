@@ -1,0 +1,16 @@
+# virtual environment
+*/venv
+
+# dataset
+**/fashion-dataset
+
+# uploaded images
+#**/uploads
+
+# python and jupyter notebook specific
+**/.idea
+**/.ipynb_checkpoints
+**/__pycache__
+
+# For high file size, ignore the .pkl piles
+**/*.pkl
