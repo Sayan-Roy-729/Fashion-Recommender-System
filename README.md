@@ -1,4 +1,4 @@
-# 👗 **Fashion Recommender System - Reverse Image Search** 👗
+# 👗 **Fashion Recommender System** 👗
 
 ## 📃 **Project Details**
 Build a fashion recommender system where if a user upload an image to the site, the model will search top 5 similar images from the image dataset and show them to the user. For high accuracy and success rate of Convolution Neural Networks (CNN) now a days, we have used `ResNet-50` as Transfer-learning model and used a technique called `Reverse Image Search` for this recommendation.
